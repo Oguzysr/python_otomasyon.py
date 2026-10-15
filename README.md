@@ -26,7 +26,7 @@ Python ile geliştirilen bu proje, kitap ve dergi kayıtlarının yönetilmesini
 - Listeler ve döngüler
 - Koşullu ifadeler
 
-## Çalıştırma
+## Çalışma
 
 python main.py
 
