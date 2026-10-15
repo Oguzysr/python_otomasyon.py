@@ -28,9 +28,8 @@ Python ile geliştirilen bu proje, kitap ve dergi kayıtlarının yönetilmesini
 
 ## Çalıştırma
 
-```bash
 python main.py
-```
+
 
 ## Veri Saklama
 
